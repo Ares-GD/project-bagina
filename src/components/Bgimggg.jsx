@@ -4,7 +4,7 @@ const Bgimggg = () => {
   return (
     <div 
       className="bgimg" 
-      style={{ backgroundImage: "url('images/bg_3.webp')" }} 
+      style={{ backgroundImage: "url('assets/images/bg_3.webp')" }} 
       data-stellar-background-ratio="0.5"
     >
       <div className="container">

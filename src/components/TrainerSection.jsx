@@ -19,7 +19,7 @@ const TrainerSection = () => {
           <div className="col-lg-3 mb-4 mb-lg-0 col-md-6 text-center" data-aos="fade-up" data-aos-delay="">
             <div className="person">
               <img 
-                src="images/person_1.webp" 
+                src="assets/images/person_1.webp" 
                 alt="Image" 
                 className="img-fluid" 
               />
@@ -35,7 +35,7 @@ const TrainerSection = () => {
           <div className="col-lg-3 mb-4 mb-lg-0 col-md-6 text-center" data-aos="fade-up" data-aos-delay="100">
             <div className="person">
               <img 
-                src="images/person_2.webp" 
+                src="assets/images/person_2.webp" 
                 alt="Image" 
                 className="img-fluid" 
               />
@@ -51,7 +51,7 @@ const TrainerSection = () => {
           <div className="col-lg-3 mb-4 mb-lg-0 col-md-6 text-center" data-aos="fade-up" data-aos-delay="200">
             <div className="person">
               <img 
-                src="images/person_3.webp" 
+                src="assets/images/person_3.webp" 
                 alt="Image" 
                 className="img-fluid" 
               />
@@ -67,7 +67,7 @@ const TrainerSection = () => {
           <div className="col-lg-3 mb-4 mb-lg-0 col-md-6 text-center" data-aos="fade-up" data-aos-delay="300">
             <div className="person">
               <img 
-                src="images/person_4.webp" 
+                src="assets/images/person_4.webp" 
                 alt="Image" 
                 className="img-fluid" 
               />

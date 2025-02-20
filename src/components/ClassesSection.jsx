@@ -19,7 +19,7 @@ const ClassesSection = () => {
             {/* Класс 1 */}
             <div className="class-item d-flex align-items-center">
               <a href="single.html" className="class-item-thumbnail">
-                <img src="images/img_1.webp" alt="Image" />
+                <img src="assets/images/img_1.webp" alt="Image" />
               </a>
               <div className="class-item-text">
                 <h2><a href="single.html">Йога для начинающих</a></h2>
@@ -30,7 +30,7 @@ const ClassesSection = () => {
             {/* Класс 2 */}
             <div className="class-item d-flex align-items-center">
               <a href="single.html" className="class-item-thumbnail">
-                <img src="images/img_2.webp" alt="Image" />
+                <img src="assets/images/img_2.webp" alt="Image" />
               </a>
               <div className="class-item-text">
                 <h2><a href="single.html">Силовая тренировка</a></h2>
@@ -41,7 +41,7 @@ const ClassesSection = () => {
             {/* Класс 3 */}
             <div className="class-item d-flex align-items-center">
               <a href="single.html" className="class-item-thumbnail">
-                <img src="images/img_3.webp" alt="Image" />
+                <img src="assets/images/img_3.webp" alt="Image" />
               </a>
               <div className="class-item-text">
                 <h2><a href="single.html">Кардио-тренировка</a></h2>
@@ -52,7 +52,7 @@ const ClassesSection = () => {
             {/* Класс 4 */}
             <div className="class-item d-flex align-items-center">
               <a href="single.html" className="class-item-thumbnail">
-                <img src="images/img_4.webp" alt="Image" />
+                <img src="assets/images/img_4.webp" alt="Image" />
               </a>
               <div className="class-item-text">
                 <h2><a href="single.html">Кроссфит</a></h2>
@@ -63,7 +63,7 @@ const ClassesSection = () => {
             {/* Класс 5 */}
             <div className="class-item d-flex align-items-center">
               <a href="single.html" className="class-item-thumbnail">
-                <img src="images/img_1.webp" alt="Image" />
+                <img src="assets/images/img_1.webp" alt="Image" />
               </a>
               <div className="class-item-text">
                 <h2><a href="single.html">Пилатес</a></h2>
