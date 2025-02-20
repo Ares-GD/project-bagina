@@ -1,0 +1,55 @@
+import React from 'react';
+import PreHeader from './components/PreHeader'; // Предполагается, что компонент создан
+import Header from './components/Header'; // Предполагается, что компонент создан
+import BgndVideo from './components/BgndVideo'; // Предполагается, что компонент создан
+import IntroSection from './components/IntroSection'; // Предполагается, что компонент создан
+import ScheduleWrap from './components/ScheduleWrap'; // Предполагается, что компонент создан
+import SiteSection from './components/SiteSection'; // Предполагается, что компонент создан
+import ClassesSection from './components/ClassesSection'; // Предполагается, что компонент создан
+import TrainerSection from './components/TrainerSection'; // Предполагается, что компонент создан
+import ServicesSection from './components/ServicesSection'; // Предполагается, что компонент создан
+import ContactSection from './components/ContactSection'; // Предполагается, что компонент создан
+import Footer from './components/Footer'; // Предполагается, что компонент создан
+
+const App = () => {
+  return (
+    <body data-spy="scroll" data-target=".site-navbar-target" data-offset="300">
+      <div className="site-wrap">
+        {/* PreHeader */}
+        <PreHeader />
+
+        {/* Header */}
+        <Header />
+
+        {/* BgndVideo */}
+        <BgndVideo />
+
+        {/* IntroSection */}
+        <IntroSection />
+
+        {/* ScheduleWrap */}
+        <ScheduleWrap />
+
+        {/* SiteSection */}
+        <SiteSection />
+
+        {/* ClassesSection */}
+        <ClassesSection />
+
+        {/* TrainerSection */}
+        <TrainerSection />
+
+        {/* ServicesSection */}
+        <ServicesSection />
+
+        {/* ContactSection */}
+        <ContactSection />
+
+        {/* Footer */}
+        <Footer />
+      </div>
+    </body>
+  );
+};
+
+export default App;
